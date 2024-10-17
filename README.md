@@ -1,10 +1,10 @@
-# Solidity 101 - Class 1
+# Solidity 101
 
 此篇為本作者實作 **Solidity 101** 教學，參考於 **WTF Academy**. 提供 Solidity code examples, exercises, and notes.  
 
 ## Table of Contents
 
-- [Solidity 101 - Class 1](#solidity-101---class-1)
+- [Solidity 101 - Class 1](#solidity-101)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [What is "Web 3.0" ?](#what-is-web-30-)
