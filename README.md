@@ -32,7 +32,7 @@ Solidity 是一種用於編寫以太坊虛擬機器（EVM）智能合約的程�
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.21;
 contract HelloWeb3{
-    string public _string = "";
+    string public _string = "Hello Web3!";
 }
 ```
 - Solidity 註解以「//」開頭，後面跟著註解內容，註解不會被程式執行
@@ -55,6 +55,6 @@ pragma solidity ^0.8.21;
 
 ```sol
 contract HelloWeb3{
-    string public _string = "";
+    string public _string = "Hello Web3!";
 }
 ```
